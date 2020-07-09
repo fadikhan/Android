@@ -1,0 +1,2 @@
+rootProject.name='UploadAndRetrieveImage'
+include ':app'
